@@ -1,4 +1,4 @@
-Git is a distributed version control system designed to track changes in code files during software development.
+#Git is a distributed version control system designed to track changes in code files during software development.
 
 1. **Repository (Repo)**:
    - A repository is a storage location where Git tracks changes to files, preserving their versions and history. It can be local (on your computer) or remote (hosted on a server like GitHub).
