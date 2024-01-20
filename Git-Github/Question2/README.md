@@ -1,5 +1,5 @@
 
-### 2. Basic Git Commands
+## Q2. Basic Git Commands
 
 1. `git init`: Initializes a new Git repository in the current directory.
    

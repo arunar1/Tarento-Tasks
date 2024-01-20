@@ -1,4 +1,4 @@
-1.  Concept of Git explaining various terms.
+1. C
 2.  Write basic commands of git.
 3.  Add Concept on GitHub,GitLab and BitBucket
 4.  Industrial practise using Git.
