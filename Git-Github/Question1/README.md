@@ -1,4 +1,4 @@
-## Q1.Concept on GitHub,GitLab and BitBucket
+## Q1.Concept of Git explaining various terms.
 
 ### Git is a distributed version control system designed to track changes in code files during software development.
 
